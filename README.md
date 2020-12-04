@@ -1,7 +1,7 @@
 # Online_Exhibition
 
-프로젝트설명
-<br>
+프로젝트설명:
+<br><br>
 
 Online_Exhibition 은 JSP 프로젝트 입니다.
 
@@ -17,9 +17,9 @@ likey( userID, exhibitionID , userIP) Primary key = (userID, exhibitionID)
 
 
 
-<br>
+<br><br>
 
-컴파일환경
+컴파일환경:
 
 컴파일 환경은 다음과 같습니다.
 
@@ -31,11 +31,11 @@ likey( userID, exhibitionID , userIP) Primary key = (userID, exhibitionID)
 
 서버 :tomcat 9.0
 
-<br>
+<br><br>
 
 
 
-브라우저 실행환경
+브라우저 실행환경:
 
 위프로젝트는 아래의 브라우저들에서 실행됩니다.
 
@@ -47,7 +47,7 @@ exploer
 
 
 
-<br>
+<br><br>
 
 프로젝트 배포사이트
 
