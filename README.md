@@ -49,7 +49,7 @@ exploer
 
 <br><br>
 
-프로젝트 배포사이트
+프로젝트 배포사이트:
 
 cyale344.cafe24.com/main.jsp
 
