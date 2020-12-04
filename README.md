@@ -15,7 +15,7 @@ exhibition( exhibitionID, exhibitionTitle, exhibitionContent, userID exhibitionF
 
 likey( userID, exhibitionID , userIP) Primary key = (userID, exhibitionID)
 
-
+<
 
 
 
