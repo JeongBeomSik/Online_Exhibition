@@ -17,6 +17,8 @@ likey( userID, exhibitionID , userIP) Primary key = (userID, exhibitionID)
 eclipse-java version "14.0.2"
 window10
 Ram: 8g  cpu: i5
+server:tomcat 9.0
+
 
 
 3. 브라우저 실행환경
