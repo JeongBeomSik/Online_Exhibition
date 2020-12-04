@@ -1,7 +1,7 @@
 # Online_Exhibition
 
 프로젝트설명
-
+<br>
 
 Online_Exhibition 은 JSP 프로젝트 입니다.
 
@@ -17,7 +17,7 @@ likey( userID, exhibitionID , userIP) Primary key = (userID, exhibitionID)
 
 
 
-
+<br>
 
 컴파일환경
 
@@ -31,7 +31,7 @@ likey( userID, exhibitionID , userIP) Primary key = (userID, exhibitionID)
 
 서버 :tomcat 9.0
 
-
+<br>
 
 
 
@@ -47,6 +47,7 @@ exploer
 
 
 
+<br>
 
 프로젝트 배포사이트
 
