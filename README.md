@@ -12,11 +12,15 @@ likey( userID, exhibitionID , userIP) Primary key = (userID, exhibitionID)
 
 
 2. 컴파일환경
+
 컴파일 환경은 다음과 같습니다.
 
 eclipse-java version "14.0.2"
+
 window10
+
 Ram: 8g  cpu: i5
+
 server:tomcat 9.0
 
 
