@@ -3,7 +3,6 @@
 프로젝트설명
 
 
-
 Online_Exhibition 은 JSP 프로젝트 입니다.
 
 17개의 jsp 파일로 구성되어있고 3개의(user, exhibition, likey) JavaBean으로 구성되어있습니다.
