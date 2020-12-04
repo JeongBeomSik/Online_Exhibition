@@ -2,6 +2,8 @@
 
 프로젝트설명
 
+
+
 Online_Exhibition 은 JSP 프로젝트 입니다.
 
 17개의 jsp 파일로 구성되어있고 3개의(user, exhibition, likey) JavaBean으로 구성되어있습니다.
@@ -13,6 +15,9 @@ user userID, userPassword, userEmail) Primary key = userID
 exhibition( exhibitionID, exhibitionTitle, exhibitionContent, userID exhibitionFilename, exhibitionDate, exhibitionAvailable, likeCount) Primary key = exhibitionID
 
 likey( userID, exhibitionID , userIP) Primary key = (userID, exhibitionID)
+
+
+
 
 
 컴파일환경
@@ -29,6 +34,8 @@ likey( userID, exhibitionID , userIP) Primary key = (userID, exhibitionID)
 
 
 
+
+
 브라우저 실행환경
 
 위프로젝트는 아래의 브라우저들에서 실행됩니다.
@@ -39,7 +46,10 @@ edge
 
 exploer
 
-4. 프로젝트 배포사이트
+
+
+
+프로젝트 배포사이트
 
 cyale344.cafe24.com/main.jsp
 
